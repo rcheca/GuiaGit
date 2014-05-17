@@ -1,6 +1,7 @@
 
 public class Alumno {
-// nuevo metodo
-bcgbcbcgc
+
+public void envioNotificacionPoke(){
+}
 }
 

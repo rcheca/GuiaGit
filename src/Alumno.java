@@ -5,4 +5,7 @@ public class Alumno {
 		
 	}
 // nuevo metodo1
+	public void envioImagen() {
+		
+	}
 }

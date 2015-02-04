@@ -23,5 +23,7 @@ public void envioNotificacionPoke2(){
 //andromeda.com      
 //...su base de datos de virus ha sido actualizada
 //kappa
+
+//inga no viene los sabados
 }
 

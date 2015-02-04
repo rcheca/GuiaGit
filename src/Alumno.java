@@ -7,7 +7,7 @@ public void envioNotificacionPoke(){
 //que paresca importante
 //xD
 <<<<<<< HEAD
-//.....Inga was here, but not in class
+//.....Inga was here, but not in class    >>>but ya vine!
 //las fijas
 =======
 //...Inga was here, but not in class

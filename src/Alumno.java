@@ -6,8 +6,12 @@ public void envioNotificacionPoke(){
 //Mensaje
 //que paresca importante
 //xD
+<<<<<<< HEAD
 //.....Inga was here, but not in class
 //las fijas
+=======
+//...Inga was here, but not in class
+>>>>>>> otrobranch
 }
 <<<<<<< HEAD
 

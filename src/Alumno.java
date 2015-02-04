@@ -10,7 +10,7 @@ public void envioNotificacionPoke(){
 }
 <<<<<<< HEAD
 
-public voidenvioImagen(){
+public void envioImagen(){
 =======
 	//metodooooooooo
 //metodooooooooo

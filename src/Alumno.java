@@ -7,6 +7,7 @@ public void envioNotificacionPoke(){
 //que paresca importante
 //xD
 //..... was here
+//las fijas
 }
 <<<<<<< HEAD
 

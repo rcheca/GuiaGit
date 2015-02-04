@@ -6,7 +6,8 @@ public void envioNotificacionPoke(){
 //Mensaje
 //que paresca importante
 //xD
-//... was here
+//..... was here
+//las fijas
 }
 <<<<<<< HEAD
 
@@ -28,3 +29,7 @@ public void envioNotificacionPoke2(){
 //hola!!!!!!!!
 }
 
+// --------------------------   paul   
+// --------------------------   paul   
+// --------------------------   paul   
+// --------------------------   paul   

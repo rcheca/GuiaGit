@@ -3,9 +3,10 @@
 public class Alumno {
 
 public void envioNotificacionPoke(){
+//Grupo4 JHM ...............................................mkfmskn
 //Mensaje
 //que paresca importante
-//xD
+//hola mundo
 <<<<<<< HEAD
 //.....Inga was here, but not in class    >>>but ya vine!
 //las fijas
@@ -31,6 +32,7 @@ public void envioNotificacionPoke2(){
 //xTXTX
 //inga no viene los sabados
 //hola!!!!!!!!
+//ya me kiero ir
 }
 
 // --------------------------   paul   

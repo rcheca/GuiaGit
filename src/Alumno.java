@@ -40,3 +40,6 @@ public void envioNotificacionPoke2(){
 
 
 // nueva linea
+
+public void envioNotificacionPOKE(){
+}

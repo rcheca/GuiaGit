@@ -5,7 +5,7 @@ public class Alumno {
 public void envioNotificacionPoke(){
 //Mensaje
 //que paresca importante
-//xD
+//hola mundo
 <<<<<<< HEAD
 //.....Inga was here, but not in class    >>>but ya vine!
 //las fijas

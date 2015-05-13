@@ -3,8 +3,12 @@
 public class Alumno {
 
 public void envioNotificacionPoke(){
+<<<<<<< HEAD
+//Mensaje HOLI BOLI CAMARON CON COLI
+=======
 //Grupo4 JHM ...............................................mkfmskn
 //Mensaje
+>>>>>>> 5fd688decec8f7c2808ef0ad3c84c682957dd21c
 //que paresca importante
 //hola mundo
 <<<<<<< HEAD

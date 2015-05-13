@@ -50,3 +50,7 @@ public void envioNotificacionPoke2(){
 public void envioNotificacionPOKE(){
 }
 // Proque!!!!????
+
+public void enviaimagen(){
+}
+//Funciona!!!!

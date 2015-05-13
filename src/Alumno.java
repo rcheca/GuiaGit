@@ -46,3 +46,11 @@ public void envioNotificacionPoke2(){
 
 
 // nueva linea
+
+public void envioNotificacionPOKE(){
+}
+// Proque!!!!????
+
+public void enviaimagen(){
+}
+//Funciona!!!!

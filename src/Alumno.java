@@ -32,6 +32,7 @@ public void envioNotificacionPoke2(){
 //xTXTX
 //inga no viene los sabados
 //hola!!!!!!!!
+//ya me kiero ir
 }
 
 // --------------------------   paul   

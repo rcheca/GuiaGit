@@ -3,9 +3,14 @@
 public class Alumno {
 
 public void envioNotificacionPoke(){
+<<<<<<< HEAD
 //Mensaje HOLI BOLI CAMARON CON COLI
+=======
+//Grupo4 JHM ...............................................mkfmskn
+//Mensaje
+>>>>>>> 5fd688decec8f7c2808ef0ad3c84c682957dd21c
 //que paresca importante
-//xD
+//hola mundo
 <<<<<<< HEAD
 //.....Inga was here, but not in class    >>>but ya vine!
 //las fijas
@@ -31,6 +36,7 @@ public void envioNotificacionPoke2(){
 //xTXTX
 //inga no viene los sabados
 //hola!!!!!!!!
+//ya me kiero ir
 }
 
 // --------------------------   paul   

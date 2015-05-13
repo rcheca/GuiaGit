@@ -1,0 +1,386 @@
+[33mcommit 72de2d0254c236d90b454b8af9866570562684b1[m
+Author: Martin Ramos <20121064@aloe.ulima.edu.pe>
+Date:   Wed May 13 08:32:44 2015 -0500
+
+    HU-123 Grupo03
+
+[33mcommit b54a1c12545b529e06d67382ca42c4fc130081ff[m
+Author: Gian Inga <20121838@hotmail.com>
+Date:   Wed Feb 4 09:50:31 2015 -0500
+
+    Ultimo commit
+
+[33mcommit dfb71139b5d49a604e406f02c52aea6a69acefe2[m
+Merge: 93201a5 adf04d1
+Author: Andrew Benitez <20110144@gmail.com>
+Date:   Wed Feb 4 09:06:03 2015 -0500
+
+    Merge branch 'master' of https://github.com/rcheca/GuiaGit
+
+[33mcommit 93201a5f9e00b644111b636b7df4d71f9b82d469[m
+Merge: e44cfe1 38a2db8
+Author: Andrew Benitez <20110144@gmail.com>
+Date:   Wed Feb 4 09:04:17 2015 -0500
+
+    AgainCommit2
+
+[33mcommit adf04d1f1b02fceea6efa0001e5a1e7641c1ce5d[m
+Merge: 37d1875 cdef7fb
+Author: Mauricio Calderon <20111621@aloe.ulima.edu.pe>
+Date:   Wed Feb 4 09:04:16 2015 -0500
+
+    Merge branch 'master' of https://github.com/rcheca/GuiaGit
+
+[33mcommit 38a2db88c9a717d3e936da19b83be1a8adb7b959[m
+Author: Andrew Benitez <20110144@gmail.com>
+Date:   Wed Feb 4 09:01:11 2015 -0500
+
+    My Second Commit 0002
+
+[33mcommit e44cfe166ef8b078ca3d537092e521292c0e9ebc[m
+Author: Andrew Benitez <20110144@gmail.com>
+Date:   Wed Feb 4 09:00:11 2015 -0500
+
+    MyCommit002
+
+[33mcommit cdef7fb11f271a1600c228eeead797556d4e165b[m
+Author: Paul <v5101@V5101.lab.aca>
+Date:   Wed Feb 4 09:00:01 2015 -0500
+
+    HU-123 Grupo 1b
+
+[33mcommit 718cb0520a4028f226dc8ae2b4c25b1222c0b7d2[m
+Merge: 546ab96 5cae68f
+Author: Andrew Benitez <20110144@gmail.com>
+Date:   Wed Feb 4 08:58:47 2015 -0500
+
+    Merge branch 'master' of https://github.com/rcheca/GuiaGit
+
+[33mcommit 37d1875f59b32de261eb958c073150ab442ba3a8[m
+Author: Mauricio Calderon <20111621@aloe.ulima.edu.pe>
+Date:   Wed Feb 4 08:58:29 2015 -0500
+
+    HU-123 Grupo03
+
+[33mcommit 5cae68f068d09346c9942123edaa947a28a77a16[m
+Author: Mariapaz Reyes <mariapazr.26@gmail.com>
+Date:   Wed Feb 4 08:53:36 2015 -0500
+
+    HU-123 Grupo 01
+
+[33mcommit 4ccfd7606b470c0f37ebf2b2b47e082fe2f4f707[m
+Merge: d9e79f6 b974e98
+Author: Paul <epmg@gmail.com>
+Date:   Wed Feb 4 08:46:08 2015 -0500
+
+    Merge branch 'master' of https://github.com/rcheca/GuiaGit
+
+[33mcommit b974e98c69f980bbcb4237343c2e0ff8687bd82e[m
+Author: Javier Quiñonez <javier.2493@gmail.com>
+Date:   Wed Feb 4 08:45:06 2015 -0500
+
+    HU-123 Grupo 03
+
+[33mcommit d9e79f6d146e5dc977c211eff5211e5f66d40c51[m
+Author: Paul <epmg@gmail.com>
+Date:   Wed Feb 4 08:45:04 2015 -0500
+
+    HU-124 Grupo1a
+
+[33mcommit 03a4b2857f28da4b9c93c0b80fa7c9cf4e0872d8[m
+Merge: 1d5bb49 cc9d8cf
+Author: Paul <epmg@gmail.com>
+Date:   Wed Feb 4 08:43:30 2015 -0500
+
+    Merge branch 'master' of https://github.com/rcheca/GuiaGit
+
+[33mcommit 1d5bb49968110af401b75613eaa81c8772ff9856[m
+Author: Paul <epmg@gmail.com>
+Date:   Wed Feb 4 08:34:46 2015 -0500
+
+    HU-123 Grupo 1a
+
+[33mcommit cc9d8cf4cc1cf6f975063d7a27a157a604521f5c[m
+Author: Diego Nano <dnano@gmail.com>
+Date:   Wed Feb 4 08:28:47 2015 -0500
+
+    HU-123 Grupo02
+
+[33mcommit 8b6be5e3562b3fd068cb43a2cf7146f9d522565e[m
+Author: Mariapaz Reyes <mariapazr.26@gmail.com>
+Date:   Wed Feb 4 08:11:40 2015 -0500
+
+    HU-123 Grupo01
+
+[33mcommit 546ab962486225c2af5b331e11c826f6e4788029[m
+Author: Andrew Benitez <20110144@gmail.com>
+Date:   Wed Feb 4 07:54:49 2015 -0500
+
+    HU-124 parte A
+
+[33mcommit e588059773b2107b95fe76cd93e1ea9b61e3a982[m
+Author: unknown <v5105@V5105.lab.aca>
+Date:   Wed Feb 4 07:48:26 2015 -0500
+
+    HU-124 Grupo x2
+
+[33mcommit 5932aee2a616d47705ef6d0df0b5d110858fe2df[m
+Author: unknown <v5105@V5105.lab.aca>
+Date:   Wed Feb 4 07:46:27 2015 -0500
+
+    Commit Grupo x2
+
+[33mcommit 41bccc7c09ec629db84bdbbe2c76e5c942dcdb90[m
+Author: Elvis Rupire <20112306@aloe.ulima.edu.pe>
+Date:   Wed Feb 4 07:18:15 2015 -0500
+
+    HU-123 Grupo 3
+
+[33mcommit e2f7739c436d17c2af592904ef9fde2e175f022f[m
+Author: Victor Caceres <20122365@aloe.ulima.edu.pe>
+Date:   Tue Feb 3 23:22:02 2015 -0500
+
+    HU-123 Grupo5
+
+[33mcommit c28f9a9ebc8ee69bacfc87d92163bac8ba7668d1[m
+Author: Andriu <20110144@gmail.com>
+Date:   Tue Feb 3 22:43:55 2015 -0500
+
+    Otro commit xD
+
+[33mcommit 77805f7c1c08ffe97ff4efbb363d766fe4ab6890[m
+Author: Andriu <20110144@gmail.com>
+Date:   Tue Feb 3 22:39:08 2015 -0500
+
+    Un commit xD
+
+[33mcommit 340724c1109f21698ccbb17ff8bb074fa7817754[m
+Merge: dea155b 834068a
+Author: Andres Iturriaga <20090562@ulima.edu.pe>
+Date:   Wed Sep 24 09:38:47 2014 -0500
+
+    Quinto COmmit
+
+[33mcommit dea155bddb76b45731ddfbf456a3d6a7c074a520[m
+Author: Andres Iturriaga <20090562@ulima.edu.pe>
+Date:   Wed Sep 24 09:35:57 2014 -0500
+
+    Tercer Commit Iturriaga
+
+[33mcommit 834068abfaa5bcd518fd8cb274649188d85155c6[m
+Author: Vanessa Ortega <20112122@aloe.ulima.edu.pe>
+Date:   Wed Sep 24 09:29:38 2014 -0500
+
+    HU 123 Grupo 3
+
+[33mcommit d116e9d9a655c15cac7e60ddbf9e170567b36f4b[m
+Author: Alessandra O <20112121@aloe.ulima.edu.pe>
+Date:   Wed Sep 24 09:21:51 2014 -0500
+
+    HU-123 Grupo3
+
+[33mcommit 106126bdd6cb8d36feff6659482d7302d6d214ce[m
+Author: Andres Iturriaga <20090562@ulima.edu.pe>
+Date:   Wed Sep 24 09:17:28 2014 -0500
+
+    Commit GuiaGit Iturriaga
+
+[33mcommit 5a015860501c0daf97aa381ef436849cf281cec4[m
+Author: Leonardo Pareja <20112148@aloe.ulima.edu.pe>
+Date:   Wed Sep 24 09:03:12 2014 -0500
+
+    HU-123 Grupo02
+
+[33mcommit 8a2176cb186d71621a71cf0aa6d9784d07842e74[m
+Author: giancarlo urbano <giancarlo_51291@hotmail.com>
+Date:   Wed Sep 24 08:56:06 2014 -0500
+
+    HU-123 Grupo3
+
+[33mcommit 617dd5c1fc0e4a7d740908c4ea90c649ce4d0e52[m
+Author: Rocio checa <rchecaf@gmail.com>
+Date:   Wed Sep 24 05:58:10 2014 -0500
+
+    Primer commit
+
+[33mcommit 5638d716fd0f86a6b190d96c734e5c6e731ff232[m
+Author: Rocio checa <rchecaf@gmail.com>
+Date:   Wed Sep 24 05:06:26 2014 -0500
+
+    HU-124444444
+
+[33mcommit f632654549ab412428e2ead76041e6394e1cb715[m
+Author: Rocio checa <rchecaf@gmail.com>
+Date:   Wed Sep 24 04:56:30 2014 -0500
+
+    HU-123 Grupo02
+
+[33mcommit cb0c06565c7d39ee8a1cb0e4b46c0556237ac584[m
+Author: Christian Soto <csoto061@hotmail.com>
+Date:   Fri May 23 09:12:10 2014 -0500
+
+    Cambio 04
+
+[33mcommit 9d2cfaf5ac9a6e9a08fed1d1a18d12d3ebabca7c[m
+Merge: 898a786 d55b5d5
+Author: erik garro <okerimaki@gmail.com>
+Date:   Sat May 17 12:07:43 2014 -0500
+
+    0
+
+[33mcommit 898a786495d805c0de36000ab6be93c8b7b38817[m
+Author: erik garro <okerimaki@gmail.com>
+Date:   Sat May 17 12:05:19 2014 -0500
+
+    comentario
+
+[33mcommit d55b5d57faec81ddebc53df5443ead303b87fe8f[m
+Merge: 8e5736c 640e930
+Author: Christian Soto <csoto@hotmail.com>
+Date:   Sat May 17 12:03:53 2014 -0500
+
+    check
+
+[33mcommit 8f0fd4cd5f8c20a3f24b2d62ba81fa0287aa386a[m
+Merge: fd529f5 640e930
+Author: erik garro <okerimaki@gmail.com>
+Date:   Sat May 17 12:03:51 2014 -0500
+
+    comentario
+
+[33mcommit 8e5736c9fbf71154b05cf4b905c1542d28d3675e[m
+Merge: f29ac1a 2738710
+Author: Christian Soto <csoto@hotmail.com>
+Date:   Sat May 17 12:02:48 2014 -0500
+
+    aa
+
+[33mcommit fd529f5c6b33b754eb19e9413d27b172840d7641[m
+Merge: 2be3fe8 2738710
+Author: erik garro <okerimaki@gmail.com>
+Date:   Sat May 17 12:00:33 2014 -0500
+
+    comentario
+
+[33mcommit f29ac1a92ab41b257fb4c0fcb745b04ba8cb3417[m
+Merge: 9f13ce3 c424d58
+Author: Christian Soto <csoto@hotmail.com>
+Date:   Sat May 17 11:57:52 2014 -0500
+
+    hola
+
+[33mcommit 640e9304fb49beeb03b6d8d2f53367169e09e7de[m
+Merge: 89bc668 2738710
+Author: Renzo Saettone <20091017@aloe.ulima.edu.pe>
+Date:   Sat May 17 11:57:07 2014 -0500
+
+    HU-125 Grupo01
+
+[33mcommit 2be3fe8bd6f1f8e51c5ee29810ec8190378ef3e0[m
+Merge: b0dc785 8044112
+Author: erik garro <okerimaki@gmail.com>
+Date:   Sat May 17 11:56:19 2014 -0500
+
+    wii
+
+[33mcommit 273871043a9adb8195939a8bb43a64b06789692c[m
+Merge: 2077424 c424d58
+Author: Miguel chinchay <20051618@aloe.ulima.edu.pe>
+Date:   Sat May 17 11:54:50 2014 -0500
+
+    Merge branch 'master' of https://github.com/rcheca/GuiaGit
+
+[33mcommit 89bc66811859ad5d3cbe1262f657ebee9d9d7fbf[m
+Merge: 8f6fce6 8044112
+Author: Renzo Saettone <20091017@aloe.ulima.edu.pe>
+Date:   Sat May 17 11:54:49 2014 -0500
+
+    HU-124 Grupo01
+
+[33mcommit 20774248f175b8fd57246c067d7d64bedf60c993[m
+Merge: 0395743 8044112
+Author: Miguel chinchay <20051618@aloe.ulima.edu.pe>
+Date:   Sat May 17 11:54:31 2014 -0500
+
+    comentario
+
+[33mcommit 9f13ce3785eb5fda1fbc88065dd5fbb4f511299d[m
+Merge: 05e23ca 8044112
+Author: Christian Soto <csoto@hotmail.com>
+Date:   Sat May 17 11:52:25 2014 -0500
+
+    HU-124 Grupo04
+
+[33mcommit c424d589dcc59071d30a4c6ed912cf2544d5ec35[m
+Merge: 60afcd9 8044112
+Author: Priyam Gupta <20070490@aloe.ulima.edu.pe>
+Date:   Sat May 17 11:50:50 2014 -0500
+
+    HU-123 Grupo01
+
+[33mcommit 8f6fce68d07bc966f89b9b1096d257a56a1cf72c[m
+Author: Renzo Saettone <20091017@aloe.ulima.edu.pe>
+Date:   Sat May 17 11:47:52 2014 -0500
+
+    HU-124 Grupo01
+
+[33mcommit 8044112fe645b28a8e33df840183a3d94c62c800[m
+Merge: b5e6785 eaa189c
+Author: lcarpio@gmail.com <w3212@W3212.lab.aca>
+Date:   Sat May 17 11:43:17 2014 -0500
+
+    Merge branch 'master' of https://github.com/rcheca/GuiaGit
+
+[33mcommit b0dc78573a77ca5b62730fb81b8e1804f7f1137e[m
+Author: erik garro <okerimaki@gmail.com>
+Date:   Sat May 17 11:37:50 2014 -0500
+
+    HU-123 Grupo04
+
+[33mcommit 03957435c0cdc93c005630425732769f748016fe[m
+Author: Miguel chinchay <20051618@aloe.ulima.edu.pe>
+Date:   Sat May 17 11:37:11 2014 -0500
+
+    HU-123 Grupo05
+
+[33mcommit 05e23ca2feb95ce4ced7f46a7c304608bb8cdbbf[m
+Author: Christian Soto <csoto@hotmail.com>
+Date:   Sat May 17 11:36:45 2014 -0500
+
+    HU-123 Grupo04
+
+[33mcommit 60afcd951e43e9910e25ec8fedf4fa4fd6c75d92[m
+Author: Priyam Gupta <20070490@aloe.ulima.edu.pe>
+Date:   Sat May 17 11:35:06 2014 -0500
+
+    HU-123 Grupo01
+
+[33mcommit b5e6785e06cb4cab1896e1a61e88248b0de59b6f[m
+Author: lcarpio@gmail.com <w3212@W3212.lab.aca>
+Date:   Sat May 17 11:33:02 2014 -0500
+
+    HU-123 Grupo01
+
+[33mcommit eaa189c586fb3c0aea963073e3120dacb0258a80[m
+Author: Renzo Saettone <20091017@aloe.ulima.edu.pe>
+Date:   Sat May 17 11:31:33 2014 -0500
+
+    HU-123 Grupo01
+
+[33mcommit b437e948a1af662e07acdf313851f49ce0502cf1[m
+Author: rcheca <rchecaf@gmail.com>
+Date:   Sat May 17 08:31:26 2014 -0500
+
+    Update Alumno.java
+
+[33mcommit 5cd0313bd805fab70935a7e8e5fa2eb91d15bc0f[m
+Author: Luis Carpio <lcarpio@gmail.com>
+Date:   Sat May 17 08:05:59 2014 -0500
+
+    Enviar notificación
+
+[33mcommit 4a43a1788ffe6b7e6d28d51bb1af0b05caa6e397[m
+Author: Rocio Checa <rchecaf@gmail.com>
+Date:   Sat May 17 06:57:06 2014 -0500
+
+    first commit

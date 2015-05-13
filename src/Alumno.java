@@ -3,7 +3,7 @@
 public class Alumno {
 
 public void envioNotificacionPoke(){
-//Mensaje HOLI BOLI
+//Mensaje HOLI BOLI CAMARON CON COLI
 //que paresca importante
 //xD
 <<<<<<< HEAD

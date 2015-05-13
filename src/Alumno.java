@@ -22,7 +22,7 @@ public void envioNotificacionPoke(){
 
 public void envioImagen(){
 =======
-	//metodooooooooo
+	//metodooooooooo HOLISW2
 //metodooooooooo
 //metodo V
 public void envioNotificacionPoke2(){

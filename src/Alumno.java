@@ -6,7 +6,7 @@ public void envioNotificacionPoke(){
 //Grupo4 JHM ...............................................mkfmskn
 //Mensaje
 //que paresca importante
-//xD
+//hola mundo
 <<<<<<< HEAD
 //.....Inga was here, but not in class    >>>but ya vine!
 //las fijas

@@ -3,7 +3,7 @@
 public class Alumno {
 
 public void envioNotificacionPoke(){
-//Grupo4 JHM ...............................................
+//Grupo4 JHM ...............................................mkfmskn
 //Mensaje
 //que paresca importante
 //xD
